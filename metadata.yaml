@@ -1,0 +1,22 @@
+_repo: Si-Klegg-Complete-Books-1-6_57334
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McElroy, John
+    birthdate: 1846
+    deathdate: 1929
+    gutenberg_agent_id: '1015'
+    url: http://www.gutenberg.org/2009/agents/1015
+description: ''
+gutenberg_issued: '2018-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57334'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Si Klegg, Complete, Books 1-6
+url: http://www.gutenberg.org/ebooks/57334
